@@ -28,16 +28,20 @@ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
 - launch SLAM with rviz and spacify gmapping method.
 
-$ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
-
+```ruby
+roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
+```
 --------
 
 - launch key teleop to cover the whole area.
 
-$ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
-
+```ruby
+roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
+```
 -------
 
 - when you finish, save the map using map_server package.
 
-$ rosrun map_server map_saver -f ~/map
+```ruby
+rosrun map_server map_saver -f ~/map
+```
