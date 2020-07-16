@@ -48,3 +48,6 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ```ruby
 $ rosrun map_server map_saver -f ~/map
 ```
+
+# References
+- https://emanual.robotis.com/docs/en/platform/turtlebot3/slam/#ros-1-slam
