@@ -6,7 +6,7 @@ You need first to install Turtlebot3 package if you did not install it check thi
 OR
 
 If you haven't downloaded Turtlebot3 packages you may find them in the link below
-https://emanual.robotis.com/docs/en/platform/turtlebot3/pc_setup/
+- https://emanual.robotis.com/docs/en/platform/turtlebot3/pc_setup/
 
 --------
 
