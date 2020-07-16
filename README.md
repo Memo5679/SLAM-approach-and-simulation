@@ -1,8 +1,4 @@
 # SLAM-approach-and-simulation
-In computational geometry, simultaneous localization and mapping is the computational problem of constructing or updating a map of an unknown environment while simultaneously keeping track of an agent's location within it.
-
--------
-
 This tutorial is for Gazebo simulation.
 You need first to install Turtlebot3 package if you did not install it check this link now
 - https://github.com/Memo5679/Running-ROS-turtlebot3-robot-simulation.
