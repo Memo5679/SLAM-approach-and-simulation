@@ -20,7 +20,9 @@ Then, run the following commands:
 
 - launch gazebo world with a turtlebot.
 
-$ roslaunch turtlebot3_gazebo turtlebot3_world.launch
+```ruby
+roslaunch turtlebot3_gazebo turtlebot3_world.launch
+```
 
 --------
 
