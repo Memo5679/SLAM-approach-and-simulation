@@ -40,7 +40,7 @@ rosrun map_server map_saver -f ~/map
 ```
 ##### You will find the saved map in home directory
 
-write this command to get the map
+**********************
 
 --------------------------------
 # write this command to get the map
